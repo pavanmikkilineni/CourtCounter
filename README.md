@@ -1,2 +1,2 @@
 # CourtCounter
-This my first Android app
+Keeps track of basketball scores for two teams. Used in the Udacity Android for Beginners course.
